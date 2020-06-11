@@ -1,0 +1,1 @@
+../kf2_random_map.sh

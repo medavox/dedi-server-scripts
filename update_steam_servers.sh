@@ -1,0 +1,1 @@
+../update_steam_servers.sh
